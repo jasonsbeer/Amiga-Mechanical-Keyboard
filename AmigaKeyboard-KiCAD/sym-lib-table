@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "AmigaKeyboard")(type "KiCad")(uri "${KIPRJMOD}/Symbols/AmigaKeyboard.kicad_sym")(options "")(descr ""))
+)
